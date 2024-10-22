@@ -1,6 +1,16 @@
 # End_to_end_NLP_proj
 
 
+## project Workflows
+
+- constants
+- config_entity
+- artifact_entity
+- components    
+- pipeline
+- app.py
+
+
 ## How to run?
 
 ```bash
@@ -21,3 +31,9 @@ pip install -r requirements.txt
 
 # Gcloud cli
 https://dl.google.com/dl/cloudsdk/channels/rapid/GoogleCloudSDKInstaller.exe
+
+
+
+```bash
+gcloud init
+```
